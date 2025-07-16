@@ -1,0 +1,29 @@
+===== SYSTEM INFO =====
+Hostname: bedanta
+OS: Kali GNU/Linux Rolling 2025 x86_64
+Uptime: up 1 hour, 43 minutes
+
+===== RESOURCE USAGE =====
+Memory Usage:
+Used: 5.8Gi / 16.0Gi
+
+Disk Usage:
+/dev/nvme0n1p1: 37%
+/dev/nvme0n1p2: 81%
+
+CPU Load:
+CPU Load: [#############                 ] 45%
+
+Top 5 Memory-Using Processes:
+bedanta   /usr/lib/firefox/firefox
+bedanta   /usr/bin/code
+mysql     /usr/sbin/mysqld
+bedanta   /usr/bin/python3 ./monitor.py
+gnome     /usr/bin/gnome-shell
+
+===== GPU INFO =====
+NVIDIA GPU:
+Name: NVIDIA GeForce RTX 4060
+Memory: 5200 / 8192 MB
+Temp: 61°C
+GPU Memory: [###################           ] 63%
